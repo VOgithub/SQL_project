@@ -1,4 +1,4 @@
-SQL ylesanne
+﻿SQL ylesanne
 1. на SQL: составить запрос на добавление в таблицу Dinners столбца Owner и сразу показать результат
+INSERT INTO Dinners 
 2. составьте запрос на добавление в таблицу Dinners строк Name_ID и Age со значениями ('1','John') и ('2','Jack')
-
