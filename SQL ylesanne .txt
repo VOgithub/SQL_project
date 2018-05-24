@@ -2,3 +2,5 @@
 1. на SQL: составить запрос на добавление в таблицу Dinners столбца Owner и сразу показать результат
 INSERT INTO Dinners 
 2. составьте запрос на добавление в таблицу Dinners строк Name_ID и Age со значениями ('1','John') и ('2','Jack')
+INSERT INTO Dinners (Name_ID, Age) VALUES ('1', 'John') 
+INSERT INTO Dinners (Name_ID, Age) VALUES ('2','Jack')
