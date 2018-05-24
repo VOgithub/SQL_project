@@ -5,4 +5,8 @@
 ALTER TABLE Dinners
 ADD Column Owner
 
+ALTER TABLE Dinners
+INSERT into Name_ID, Age
+VALUES ('1','John'), ('2','Jack')
+
 
