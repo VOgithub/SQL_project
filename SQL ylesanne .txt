@@ -7,3 +7,6 @@
 ADD COLUMN Owners
 SELECT * FROM Dinners
 GO
+
+2. ADD TO Dinners (Name_ID, Age)
+VALUES ('1','John');
