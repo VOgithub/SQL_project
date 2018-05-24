@@ -1,4 +1,8 @@
-SQL ylesanne
+﻿SQL ylesanne
 1. на SQL: составить запрос на добавление в таблицу Dinners столбца Owner и сразу показать результат
 2. составьте запрос на добавление в таблицу Dinners строк Name_ID и Age со значениями ('1','John') и ('2','Jack')
 
+1. UPDATE TABLE Dinners,
+ADD COLUMN Owners
+SELECT * FROM Dinners
+GO
